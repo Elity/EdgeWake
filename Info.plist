@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key><string>en</string>
+  <key>CFBundleLocalizations</key>
+  <array>
+    <string>en</string>
+    <string>zh-Hans</string>
+  </array>
+  <key>CFBundleExecutable</key><string>EdgeWake</string>
+  <key>CFBundleIdentifier</key><string>io.github.elity.EdgeWake</string>
+  <key>CFBundleName</key><string>EdgeWake</string>
+  <key>CFBundleDisplayName</key><string>EdgeWake</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>0.1.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>15.0</string>
+  <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
+  <key>LSUIElement</key><true/>
+  <key>NSHumanReadableCopyright</key><string>© 2026 Huiting Chen. MIT License.</string>
+  <key>NSLocalNetworkUsageDescription</key>
+  <string>EdgeWake finds your other Macs on the local network so one can wake the other's display.</string>
+  <key>NSBonjourServices</key>
+  <array>
+    <string>_edgewake._tcp</string>
+  </array>
+</dict>
+</plist>

@@ -1,0 +1,796 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ is offline": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 离线"
+          }
+        }
+      }
+    },
+    "%@ moved": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 的位置变了"
+          }
+        }
+      }
+    },
+    "%@ · On the Left": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · 在左侧"
+          }
+        }
+      }
+    },
+    "%@ · On the Right": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · 在右侧"
+          }
+        }
+      }
+    },
+    "6-digit code": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "6 位配对码"
+          }
+        }
+      }
+    },
+    "A Mac that goes to sleep cannot be woken by EdgeWake. Turning off just the display is fine.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac 进入睡眠后，EdgeWake 无法唤醒它。只关闭显示器没有问题。"
+          }
+        }
+      }
+    },
+    "Asking %@ for a code…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在请 %@ 生成配对码…"
+          }
+        }
+      }
+    },
+    "Bluetooth is on": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蓝牙已打开"
+          }
+        }
+      }
+    },
+    "Both Macs must use the same Apple Account.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "两台 Mac 必须登录同一个 Apple 账户。"
+          }
+        }
+      }
+    },
+    "Bump the edge facing that Mac to wake it. If you rearrange the Macs in Universal Control, EdgeWake notices the next time the pointer crosses and updates this for you.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连续撞击朝向那台 Mac 的屏幕边缘即可唤醒它。如果你在通用控制里重新排列了 Mac，下次指针穿越时 EdgeWake 会自动发现并更新这里。"
+          }
+        }
+      }
+    },
+    "Bumps needed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "所需撞击次数"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        }
+      }
+    },
+    "Check Both Macs": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "检查两台 Mac"
+          }
+        }
+      }
+    },
+    "Confirmed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已确认"
+          }
+        }
+      }
+    },
+    "Display off": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示器已关闭"
+          }
+        }
+      }
+    },
+    "Display on": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示器已打开"
+          }
+        }
+      }
+    },
+    "Displays › Advanced: allow the pointer and keyboard to move between nearby Macs, push through the edge, and reconnect automatically.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示器 › 高级：允许指针和键盘在附近的 Mac 之间移动、推过显示器边缘以连接、自动重新连接。"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
+    "Edge Gesture": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "撞边手势"
+          }
+        }
+      }
+    },
+    "EdgeWake": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EdgeWake"
+          }
+        }
+      }
+    },
+    "EdgeWake finds your other Macs on the local network so one can wake the other's display.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EdgeWake 需要在局域网中查找你的其他 Mac，以便一台 Mac 唤醒另一台的显示器。"
+          }
+        }
+      }
+    },
+    "EdgeWake now wakes %@ from the left edge.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "现在从左侧边缘唤醒 %@。"
+          }
+        }
+      }
+    },
+    "EdgeWake now wakes %@ from the right edge.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "现在从右侧边缘唤醒 %@。"
+          }
+        }
+      }
+    },
+    "EdgeWake only reacts when the Mac on that side has its display off, no mouse button is held, and no app is full screen.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只有当那一侧的 Mac 显示器已关闭、没有按住鼠标键、且没有 App 处于全屏时，EdgeWake 才会响应。"
+          }
+        }
+      }
+    },
+    "EdgeWake – settings need attention": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EdgeWake – 有设置需要处理"
+          }
+        }
+      }
+    },
+    "Enter this code on %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请在 %@ 上输入这个配对码"
+          }
+        }
+      }
+    },
+    "Firewall lets EdgeWake connect": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "防火墙允许 EdgeWake 连接"
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用"
+          }
+        }
+      }
+    },
+    "General › AirDrop & Handoff › Allow Handoff.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用 › 隔空投送与接力 › 允许接力。"
+          }
+        }
+      }
+    },
+    "Handoff is on": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "接力已打开"
+          }
+        }
+      }
+    },
+    "Install and open EdgeWake on both Macs. They find each other on the local network; pairing once is enough. No password or special permission is needed.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在两台 Mac 上都安装并打开 EdgeWake。它们会在局域网里自动找到对方，只需配对一次。不需要密码，也不需要特殊权限。"
+          }
+        }
+      }
+    },
+    "Looking for other Macs running EdgeWake…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在查找运行 EdgeWake 的其他 Mac…"
+          }
+        }
+      }
+    },
+    "Mac stays awake": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac 保持唤醒"
+          }
+        }
+      }
+    },
+    "May sleep": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可能睡眠"
+          }
+        }
+      }
+    },
+    "Needed even when this Mac uses Ethernet.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "即使这台 Mac 使用以太网，也需要打开。"
+          }
+        }
+      }
+    },
+    "Network › Firewall › Options: allow incoming connections for EdgeWake.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网络 › 防火墙 › 选项：允许 EdgeWake 的传入连接。"
+          }
+        }
+      }
+    },
+    "No Mac Paired Yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "尚未配对 Mac"
+          }
+        }
+      }
+    },
+    "None yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无"
+          }
+        }
+      }
+    },
+    "Not confirmed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未确认"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "好"
+          }
+        }
+      }
+    },
+    "Off": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已关闭"
+          }
+        }
+      }
+    },
+    "Offline": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "离线"
+          }
+        }
+      }
+    },
+    "On the left": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在左侧"
+          }
+        }
+      }
+    },
+    "On the right": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在右侧"
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开系统设置"
+          }
+        }
+      }
+    },
+    "Open at login": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "登录时打开"
+          }
+        }
+      }
+    },
+    "Pair Your Macs": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配对你的 Mac"
+          }
+        }
+      }
+    },
+    "Paired": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已配对"
+          }
+        }
+      }
+    },
+    "Paired Macs": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已配对的 Mac"
+          }
+        }
+      }
+    },
+    "Paired with %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已与 %@ 配对"
+          }
+        }
+      }
+    },
+    "Pairing stopped after too many wrong codes.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配对码错误次数过多，配对已停止。"
+          }
+        }
+      }
+    },
+    "Pairing was cancelled.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配对已取消。"
+          }
+        }
+      }
+    },
+    "Pairing with %@…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在与 %@ 配对…"
+          }
+        }
+      }
+    },
+    "Pair…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配对…"
+          }
+        }
+      }
+    },
+    "Quit EdgeWake": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退出 EdgeWake"
+          }
+        }
+      }
+    },
+    "Set Up EdgeWake": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置 EdgeWake"
+          }
+        }
+      }
+    },
+    "Set Up EdgeWake…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置 EdgeWake…"
+          }
+        }
+      }
+    },
+    "Settings on the other Mac are changed on that Mac. “Show on …” opens the right page on its screen.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "另一台 Mac 的设置需要在那台 Mac 上修改。点“在…上显示”，会在它的屏幕上打开对应的设置页面。"
+          }
+        }
+      }
+    },
+    "Settings…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置…"
+          }
+        }
+      }
+    },
+    "Show on %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 %@ 上显示"
+          }
+        }
+      }
+    },
+    "Signed in with the same Apple Account": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "登录同一个 Apple 账户"
+          }
+        }
+      }
+    },
+    "Some Settings Need Attention…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有设置需要处理…"
+          }
+        }
+      }
+    },
+    "That code didn't match. Check it and try again.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "配对码不正确，请核对后重试。"
+          }
+        }
+      }
+    },
+    "The other Mac is busy pairing. Try again in a moment.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "另一台 Mac 正在与别的设备配对，请稍后再试。"
+          }
+        }
+      }
+    },
+    "This Mac": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这台 Mac"
+          }
+        }
+      }
+    },
+    "Type the code shown on %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入 %@ 上显示的配对码"
+          }
+        }
+      }
+    },
+    "Universal Control is allowed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已允许通用控制"
+          }
+        }
+      }
+    },
+    "Universal Control uses Bluetooth to find nearby Macs.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用控制通过蓝牙发现附近的 Mac。"
+          }
+        }
+      }
+    },
+    "Unknown": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未知"
+          }
+        }
+      }
+    },
+    "Unpair": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消配对"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版本"
+          }
+        }
+      }
+    },
+    "Waiting": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "等待中"
+          }
+        }
+      }
+    },
+    "Wake All Macs": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "唤醒所有 Mac"
+          }
+        }
+      }
+    },
+    "Wake Display": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "唤醒显示器"
+          }
+        }
+      }
+    },
+    "Wake all Macs:": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "唤醒所有 Mac："
+          }
+        }
+      }
+    },
+    "Waking %@…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在唤醒 %@…"
+          }
+        }
+      }
+    },
+    "Where Is Each Mac?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "每台 Mac 在哪一侧？"
+          }
+        }
+      }
+    },
+    "Within": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时间窗口"
+          }
+        }
+      }
+    },
+    "Wi‑Fi is on": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wi‑Fi 已打开"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
