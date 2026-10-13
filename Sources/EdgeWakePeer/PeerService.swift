@@ -13,7 +13,8 @@ public struct DiscoveredMac: Identifiable, Equatable, Sendable {
 ///
 /// Both Macs dial each other, because the macOS Application Firewall may silently drop incoming
 /// connections on one of them; whichever direction gets through is enough. When both succeed,
-/// both Macs keep the link dialled by the Mac with the smaller device ID, so they agree.
+/// both Macs keep the link dialled by the Mac with the smaller device ID, so they agree. Two links
+/// dialled by the same Mac mean it gave up on the older one, so both Macs keep the newer.
 @MainActor
 public final class PeerService {
     public static let defaultServiceType = "_edgewake._tcp"
@@ -179,10 +180,12 @@ public final class PeerService {
         return link
     }
 
-    /// Of two ready links to the same peer, the one dialled by the Mac with the smaller ID.
-    private func preferredLink(_ a: PeerLink, _ b: PeerLink, peerID: UUID) -> PeerLink {
+    /// Of two ready links to the same peer, the one dialled by the Mac with the smaller ID, or
+    /// `newer` when the same Mac dialled both: a Mac only redials once it has given up its link.
+    private func preferredLink(_ newer: PeerLink, _ older: PeerLink, peerID: UUID) -> PeerLink {
+        guard newer.isOutgoing != older.isOutgoing else { return newer }
         let smallerIsMe = identity.id.uuidString < peerID.uuidString
-        return a.isOutgoing == smallerIsMe ? a : b
+        return newer.isOutgoing == smallerIsMe ? newer : older
     }
 
     private func handle(_ event: LinkEvent, from link: PeerLink) {
